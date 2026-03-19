@@ -108,11 +108,11 @@ me.say_hi()
 
 ---
 
-## 🏆 GitHub Trophies
+## 📊 GitHub Overview
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy-lovat-three.vercel.app/?username=msVivekRanjan&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=10&rank=B,A,AA,AAA,S,SS,SSS,SECRET)](https://github.com/ryo-ma/github-profile-trophy)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=msVivekRanjan&theme=tokyonight" width="100%" />
 
 </div>
 

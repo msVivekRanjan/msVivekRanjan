@@ -112,7 +112,7 @@ me.say_hi()
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy-winning.vercel.app/?username=msVivekRanjan&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy-lovat-three.vercel.app/?username=msVivekRanjan&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 

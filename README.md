@@ -166,8 +166,7 @@ me.say_hi()
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/MsVivekRanjan)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/vivekrs.in)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/c/VIVEKranjanSahoo)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://www.leetcode.com/vivek-rs)
-[![Codefolio](https://img.shields.io/badge/Codefolio-F05032?style=for-the-badge&logo=code&logoColor=white)](https://codolio.com/profile/ms.vivekranjan)
+[![Codolio](https://img.shields.io/badge/Codolio-F05032?style=for-the-badge&logo=code&logoColor=white)](https://codolio.com/profile/ms.vivekranjan)
 
 </div>
 

@@ -22,15 +22,16 @@
 class Vivek:
     name       = "Vivek Ranjan Sahoo"
     role       = "BTech CSE Undergrad @ ITER, SOA University"
-    location   = "Sundargarh, Odisha, India 🇮🇳"
-    interests  = ["AI/ML", "Full-Stack Dev", "IoT", "Hackathons", "Open Source"]
-    hobbies    = ["🎸 Guitar", "🏃 Long-Distance Running", "✈️ Solo Treks", "🎭 Drama & Acting"]
+    location   = "Bhubaneswar, Odisha, India 🇮🇳"
+    interests  = ["DevOps","AI/ML", "Full-Stack Dev", "DSA", "Hackathons","Leadership"]
+    hobbies    = ["🎸 Guitar", "🏃 Long-Distance Running", "✈️ Solo Treks", "📖 Reading Novels"]
     
     currently  = [
-        "Building BloodConnect — AI-powered real-time donor-recipient matching",
-        "Developing Bhumicare — Smart IoT Agriculture System",
-        "Exploring Machine Learning & Deep Learning",
-        "Sharpening DSA in Java",
+        "Vice-President GeeksforGeeks Campus Body ITER",
+        "Webmaster, SOA ACM (Association for Computing Machinery)",
+        "Campus Ambassador, GUESSS India",
+        "Cadet, National Cadet Corps",
+        
     ]
 
     philosophy = "Make it work. Make it right. Make it fast. 🚀"
@@ -94,6 +95,16 @@ me.say_hi()
 
 ---
 
+## 📊 GitHub Overview
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=msVivekRanjan&theme=tokyonight" width="100%" />
+
+</div>
+
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -106,15 +117,6 @@ me.say_hi()
 
 </div>
 
----
-
-## 📊 GitHub Overview
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=msVivekRanjan&theme=tokyonight" width="100%" />
-
-</div>
 
 ---
 
@@ -146,14 +148,14 @@ me.say_hi()
 
 | 🏆 Achievement | 📌 Details |
 |---|---|
-| 🎖️ Rajya Puraskar Awardee | Scouting — National-level recognition |
-| ⛸️ National-Level Skater | Represented at national competitions |
-| 🖌️ District-Level Painter | Recognized for visual arts |
-| 💡 Innovation Expo | Selected at Proxima 2025, SOA University |
-| 🚀 5+ Hackathons | Active participant & builder |
-| 🛤️ Solo Trek – Dec 31, 2024 | Last sunset of the year, alone on a mountain |
-| 🎙️ Event Anchor | CaseClash (Be the CEO), college events |
-| 🏃 Long-Distance Runner | Athletics | Badminton | Football |
+| 🎖️ Rajya Puraskar Awardee | Received from Hon'ble Governor of Odisha |
+| ⛸️ National-Level Skater | Selected for DAV Nationals, Gold medalist State Level |
+| 🖌️ District-Level Painter | Recognized for visual drawings |
+| 💡 Innovation Expo | Selected at Proxima 2025 & 2026, SOA University |
+| 🚀 7+ Hackathons | Active participant & builder |
+| 🛤️ Mountaineering | Completed Adventure course from NIM, Uttarkashi |
+| 🎙️ College Clubs  | Vice-President GFG ITER, SOA ACM Webmaster|
+| 🏃 Long-Distance Runner | Completed three 21 KM Half-Marathon |
 
 ---
 

@@ -187,6 +187,6 @@ me.say_hi()
 <div align="center">
 
 *"If I cannot do great things, I can do small things in a great way."*  
-**~ Vivek Ranjan Sahoo** 
+**- Vivek Ranjan Sahoo** 
 
 </div>

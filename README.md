@@ -54,8 +54,8 @@ me.say_hi()
 ### 🛜 SemanticEdge 5G
 > Eliminates the forced choice b/w "blindstorage" and "exposed streaming" by deploying a 5G-native edge inference architecture that extracts meaning locally.
 
-**Stack:** Python · AI/ML · React · NLP, VL · Telegram Bot
-**Showcased:** 5G Innovation Hackathon 2026 - One of 191 team selected nationally
+**Stack:** Python · AI/ML · React · NLP/ VL · Telegram Bot
+**Showcased:** 5G Innovation Hackathon 2026 - Among top 191 teams selected nationally
 
 [![Repo](https://img.shields.io/badge/View_Repo-6E40C9?style=for-the-badge&logo=github)](https://github.com/msVivekRanjan/SemanticEdge)
 
@@ -65,7 +65,7 @@ me.say_hi()
 ### 🌱 Bhumicare
 > Smart agriculture IoT system using AI + ESP32 to monitor soil health, air quality, and environmental conditions via a live web dashboard.
 
-**Hardware:** ESP32 · NPK · pH · DHT11 · MQ132 · LDR  
+**Hardware:** ESP32 · NPK · pH · DHT11 · MQ135 · LDR  
 **Showcased:** Proxima 2025 — India's biggest HR Conclave, SOA University
 
 [![Repo](https://img.shields.io/badge/View_Repo-6E40C9?style=for-the-badge&logo=github)](https://github.com/msVivekRanjan/Bhumicare.web)

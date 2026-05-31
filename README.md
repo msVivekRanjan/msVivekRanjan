@@ -51,13 +51,13 @@ me.say_hi()
 <tr>
 <td width="50%">
 
-### 🩸 BloodConnect
-> AI-powered platform connecting blood donors with recipients using real-time location, intelligent matching, and hospital integration.
+### 🛜 SemanticEdge 5G
+> Eliminates the forced choice b/w "blindstorage" and "exposed streaming" by deploying a 5G-native edge inference architecture that extracts meaning locally.
 
-**Stack:** Python · AI/ML · Maps API · Firebase  
-**Focus:** Trust, Safety, Rural Accessibility
+**Stack:** Python · AI/ML · React · NLP, VL · Telegram Bot
+**Showcased:** 5G Innovation Hackathon 2026 - One of 191 team selected nationally
 
-[![Repo](https://img.shields.io/badge/View_Repo-6E40C9?style=for-the-badge&logo=github)](https://github.com/msVivekRanjan)
+[![Repo](https://img.shields.io/badge/View_Repo-6E40C9?style=for-the-badge&logo=github)](https://github.com/msVivekRanjan/SemanticEdge)
 
 </td>
 <td width="50%">
@@ -66,9 +66,9 @@ me.say_hi()
 > Smart agriculture IoT system using AI + ESP32 to monitor soil health, air quality, and environmental conditions via a live web dashboard.
 
 **Hardware:** ESP32 · NPK · pH · DHT11 · MQ132 · LDR  
-**Showcased:** Proxima 2025 — Innovation Expo, SOA University
+**Showcased:** Proxima 2025 — India's biggest HR Conclave, SOA University
 
-[![Repo](https://img.shields.io/badge/View_Repo-6E40C9?style=for-the-badge&logo=github)](https://github.com/msVivekRanjan)
+[![Repo](https://img.shields.io/badge/View_Repo-6E40C9?style=for-the-badge&logo=github)](https://github.com/msVivekRanjan/Bhumicare.web)
 
 </td>
 </tr>

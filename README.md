@@ -16,7 +16,7 @@
 
 ---
 
-## 🧠 About Me
+## About Me ✨
 
 ```python
 class Vivek:
@@ -186,7 +186,7 @@ me.say_hi()
 
 <div align="center">
 
-*"The only way to do great work is to love what you do."*  
-**— Vivek Ranjan Sahoo** | Jack of All Trades, Master of Curiosity 🌟
+*"If I cannot do great things, I can do small things in a great way."*  
+**~ Vivek Ranjan Sahoo** 
 
 </div>

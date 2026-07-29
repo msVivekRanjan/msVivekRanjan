@@ -5,7 +5,7 @@
 <div align="center">
 
 <!-- ANIMATED TYPING HEADER -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=6E40C9&center=true&vCenter=true&width=700&lines=Hey+there!+I'm+Vivek+Ranjan+Sahoo+%F0%9F%91%8B;AI%2FML+Enthusiast+%F0%9F%A4%96;Full-Stack+Explorer+%F0%9F%9A%80;Hackathon+Warrior+%E2%9A%94%EF%B8%8F;Building+the+Future%2C+One+Commit+at+a+Time+%F0%9F%94%A5)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=6E40C9&center=true&vCenter=true&width=700&lines=Hey+there!+I'm+Vivek+Ranjan+Sahoo+%F0%9F%91%8B;Agentic+AI+Explorer+%F0%9F%A4%96;Learning+DevOps+%F0%9F%9A%80;Hackathon+Warrior+%E2%9A%94%EF%B8%8F;Building+the+Future%2C+One+Commit+at+a+Time+%F0%9F%94%A5)](https://git.io/typing-svg)
 
 <!-- VISITOR COUNTER -->
 <img src="https://komarev.com/ghpvc/?username=msVivekRanjan&label=Profile+Views&color=6E40C9&style=for-the-badge" alt="Profile views" />
@@ -23,11 +23,11 @@ class Vivek:
     name       = "Vivek Ranjan Sahoo"
     role       = "BTech CSE Undergrad @ ITER, SOA University"
     location   = "Bhubaneswar, Odisha, India 🇮🇳"
-    interests  = ["DevOps","AI/ML", "Full-Stack Dev", "DSA", "Hackathons","Leadership"]
+    interests  = ["DevOps","Agentic AI", "Full-Stack Dev", "DSA", "Hackathons","Leadership"]
     hobbies    = ["🎸 Guitar", "🏃 Long-Distance Running", "✈️ Solo Treks", "📖 Reading Novels"]
     
     currently  = [
-        "Vice-President GeeksforGeeks Campus Body ITER",
+        "President, GeeksforGeeks Campus Body ITER",
         "Webmaster, SOA ACM (Association for Computing Machinery)",
         "Campus Ambassador, GUESSS India",
         "Cadet, National Cadet Corps",
@@ -154,7 +154,7 @@ me.say_hi()
 | 💡 Innovation Expo | Selected at Proxima 2025 & 2026, SOA University |
 | 🚀 7+ Hackathons | Active participant & builder |
 | 🛤️ Mountaineering | Completed Adventure course from NIM, Uttarkashi |
-| 🎙️ College Clubs  | Vice-President GFG ITER, SOA ACM Webmaster|
+| 🎙️ College Clubs  | President GFG ITER, SOA ACM Webmaster|
 | 🏃 Long-Distance Runner | Completed three 21 KM Half-Marathon |
 
 ---
